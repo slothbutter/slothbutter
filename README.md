@@ -25,7 +25,7 @@
 
 <!--Skillset-->
 <div align="center">
-  <h2>Skills</h2>
+  <h2>Skills 🛠️</h2>
   <h3>🌟Best Skills🌟</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <h2>My Log</h2>
+  <h2>My Log 📝</h2>
 </div>
 <div>
   <h3>📚Experiences📚</h3>
@@ -137,4 +137,20 @@
         데이터 분석 준전문가 | 한국데이터산업진흥원 | ADsP-041008354 | 2024. 07. 14
       </li>
     </blockquote>
+</div>
+
+<div align="center">
+  <h2>Status 📊</h2>
+  <p>
+    <a herf = "https://solved.ac/eastglowing">
+      <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=eastglowing" />
+    </a>
+    <a herf = "https://solved.ac/kl7137">
+      <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=kl7137" />
+    </a>
+  </p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=slothbutter&theme=gruvbox_light&show_icons=true" /> <br>
+  <a href="https://hits.sh/github.com/slothbutter/">
+    <img alt="Hits" src="https://hits.sh/github.com/slothbutter.svg?view=today-total&style=for-the-badge&color=FBE99F&logo=github" />
+  </a>
 </div>
