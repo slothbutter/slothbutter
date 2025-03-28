@@ -6,9 +6,9 @@
 <!--간단 자기소개-->
 <div align="center">
   <h2>About Me 💬</h2>
-  <a href="https://dong-hyeok.notion.site/12c0567bbfdd80a8a69ee47e9ae98e64?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-  <a href="eastglowing@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/donghyeok/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dong-hyeok.notion.site/12c0567bbfdd80a8a69ee47e9ae98e64?pvs=4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="mailto:eastglowing@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/donghyeok/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <br><br>
   안녕하세요!👋 <br>
   호기심과 빠른 학습력을 바탕으로 다양한 경험을 통해 성장해가는 Research Engineer 신동혁입니다!<br>
