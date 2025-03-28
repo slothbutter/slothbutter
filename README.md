@@ -107,8 +107,8 @@
   <h3>🚀Competitions & Projects🚀</h3>
     <blockquote>
       <li>
-        Focal Loss와 Warm Start 기법을 활용한 Catboost 임신 성공 확률 예측 모델링 | LG Aimers 6기 | 기존 Catboost 대비 ROC <b>약 7% 상승</b><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 07. 01 ~ 2024. 08. 30 | <a href = "https://github.com/slothbutter/ailab.chemical_process_anomaly_detection" > 🔗 </a>
+        Focal Loss와 Warm Start 기법을 활용한 Catboost 임신 성공 확률 예측 모델링 | LG Aimers 6기 | 기존 Catboost 대비 ROC <b>약 7% 향상</b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 07. 01 ~ 2024. 08. 30 | <a href = "https://github.com/slothbutter/aimers6th.fertility_patients_pregnancy_success_prediction" > 🔗 </a>
       </li>
       <li>
         LSTM 구조 Autoencoder를 이용한 화학 공정 이상 탐지 모델링 | Upstage AI Lab 1기 | Baseline 대비 F1-Score <b>약 35% 향상</b><br>
@@ -116,15 +116,19 @@
       </li>
       <li>
         Ko-Bart모델을 활용한 일상 대화 요약 모델링 | Upstage AI Lab 1기 | - <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 03. 08 ~ 2024. 03. 20 | <a href = "https://github.com/slothbutter/ailab.chemical_process_anomaly_detection" > 🔗 </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 03. 08 ~ 2024. 03. 20 | <a href = "https://github.com/slothbutter/ailab.dialogue_summarization" > 🔗 </a>
       </li>
       <li>
         Optuna 탐색을 활용한 아파트 실거래가 예측 Catboost 모델링 | Upstage AI Lab 1기 | Baseline 대비 RMSE <b>약 56% 감소</b><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 02. 05 ~ 2024. 02. 19 | <a href = "https://github.com/slothbutter/ailab.chemical_process_anomaly_detection" > 🔗 </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 02. 05 ~ 2024. 02. 19 | <a href = "https://github.com/slothbutter/ailab.house_price_prediction" > 🔗 </a>
       </li>
       <li>
-        Optuna 최적 Threshold 탐색을 활용한 MQL 구매전환 예측 Catboost 모델링 | LG Aimers 4기 | Baseline 대비 F1 Score <b>약 52% 상승</b><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 02. 01 ~ 2024. 02. 26 | <a href = "https://github.com/slothbutter/ailab.chemical_process_anomaly_detection" > 🔗 </a>
+        Optuna 최적 Threshold 탐색을 활용한 MQL 구매전환 예측 Catboost 모델링 | LG Aimers 4기 | Baseline 대비 F1 Score <b>약 52% 향상</b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 02. 01 ~ 2024. 02. 26 | <a href = "https://github.com/slothbutter/aimers4th.mql_data_converted_prediction" > 🔗 </a>
+      </li>
+      <li>
+        AutoML을 사용한 대구 교통사고 예측 모델링 | 산업통상자원부 | Baseline 대비 RMSLE <b>약 74% 감소</b> <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023. 11. 15 ~ 2023. 12. 11 | <a href = "https://github.com/slothbutter/dacon.deacu_car_accident_prediction" > 🔗 </a>
       </li>
     </blockquote>
   <h3>🪪Certifications🪪</h3>
