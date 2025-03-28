@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     
     
-  <h3>📚Once I've Used📚</h3>
+  <h3>🔍Once I've Used🔍</h3>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -60,70 +60,77 @@
 
 <div align="center">
   <h2>My Log</h2>
-  <h3>🏆Prizes & Awards🏆</h3>
-    <table>
-      <tr>
-        <th scope="col">주최
-        <th scope="col">대회명
-        <th scope="col">수상
-        <th scope="col">기간
-      </tr>
-      <tr>
-        <td align="center">LG Aimers 6기</td>
-        <td align="center">난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 예선</td>
-        <td align="center">본선 진출(예선 1위)</td>
-        <td align="center">2024.06.02 ~ 2024.10.14</td>
-      </tr>
-      <tr>
-        <td align="center">기상청</td>
-        <td align="center">2024 날씨 빅데이터 콘테스트</td>
-        <td align="center">입선</td>
-        <td align="center">2024.05.11 ~ 2024.06.28<br>(본선 2024.08.07)</td>
-      </tr>
-      <tr>
-        <td align="center">Dacon</td>
-        <td align="center">2023 대구 교통사고 피해 예측 AI 경진대회 </td>
-        <td align="center">37th(4%)</td>
-        <td align="center">2023.12.04 ~ 2023.12.11</td>
-      </tr>
-    </table>
-  <h3>🚀Projects🚀</h3>
-    <table style="font-size:1px;">
-        <tr>
-          <th scope="col">프로젝트 명
-          <th scope="col">역할
-          <th scope="col">기술 스택
-          <th scope="col">성과
-          <th scope="col">협업 여부
-          <th scope="col">기간
-          <th scope="col">Repo
-        </tr>
-        <tr>
-          <td align="center">전략적 데이터 분할을 이용한 임신 성공 예측 앙상블 모델링</td>
-          <td align="center"><sub>피쳐 엔지니어링<br>Catboost 모델링<br>Dashboard 그래프 제작</sub></td>
-          <td align="center">
-            <img src=https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png alt="Python" width="20" height="20"/>
-            <img src=https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1618921514/noticon/kulrrpq9z4irkzztaacx.png alt="Seaborn" width="20" height="20"/>
-            <img src=https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1734583654/noticon/nqlff4cqcszbnsnyvnog.png alt="Plotly" width="20" height="20"/>
-            <br>
-            <img src=https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1635226310/noticon/f0q3lhbfi2qmamrjla4e.png alt="Sci-kit Learn" width="20" height="20"/>
-            <img src=https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1741719059/noticon/ldekdu72folpnb6nvs6n.png alt="Sci-kit Learn" width="20" height="20"/>
-          </td>
-          <td align="center"><sub>예선 1위</sub></td>
-          <td align="center"><sub>팀(4인)</sub></td>
-          <td align="center"><sub>2024.06.02 ~<br>2024.10.14</sub></td>
-          <td align="center"><sub>🔗</sub></td>
-        </tr>
-        <tr>
-          <td align="center">2024 날씨 빅데이터 콘테스트</td>
-          <td align="center">-</td>
-        </tr>
-        <tr>
-          <td align="center">2023 대구 교통사고 피해 예측 AI 경진대회 </td>
-          <td align="center">-</td>
-        </tr>
-      </table>
-  <h3>🎓Educations🎓</h3>
+</div>
+<div>
+  <h3>📚Experiences📚</h3>
+    <blockquote>
+      <li>
+        LG Aimers 6기 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 <b>🥇Private 1st (1st / 794th)</b> | 2024. 07. 01 ~ 2024. 08. 30
+      </li>
+      <li>
+        LG Aimers 6기 LG Aimers/Data Intelligence 과정 <b>수료</b> | 2024. 07. 01 ~ 2024. 08. 30 | 30H
+      </li>
+      <li>
+        LG Aimers 5기 LG Aimers/Data Intelligence 과정 <b>수료</b> | 2024. 07. 01 ~ 2024. 08. 30 | 30H
+      </li>
+      <li>
+        Google ML 부트캠프 2024 <b>수료</b> | 2024. 06. 28 ~ 2024. 10. 04 | 80H
+      </li>
+      <li>
+        NIPA-Google ML 부트캠프 협력 실무 프로젝트 <b>수료</b> | 2024. 05. 20 ~ 2024. 07. 15 | 120H
+      </li>
+      <li>
+        기상청 2024 날씨 빅데이터 콘테스트 <b>입선</b> | 2024. 05. 11 ~ 2024. 06. 28
+      </li>
+      <li>
+        Upstage AI Lab 1기 <b>수료</b> | 2023. 10. 05 ~ 2024. 05. 10 | 1120H
+      </li>
+      <li>
+        LG Aimers 4기 MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 <b>🥉Private 11% (102nd / 1212nd)</b> | 2024. 02. 01 ~ 2024. 02. 26 
+      </li>
+      <li>
+        LG Aimers 4기 LG Aimers/Data Intelligence 과정 <b>수료</b> | 2024. 02. 01 ~ 2024. 02. 26 | 30H
+      </li>
+      <li>
+        산업통상자원부 대구 교통사고 피해 예측 AI 경진대회 <b>🥈Private 4% (37th / 941st)</b> | 2023. 11. 15 ~ 2023. 12. 11 
+      </li>
+      <li>
+        대구가톨릭대학교 소프트웨어융합대학 학술동아리 i-Keeper <b>회장 역임</b> | 2022. 09 ~ 2023. 03
+      </li>
+      <li>
+        대구가톨릭대학교 소프트웨어융합대학 학술동아리 i-Keeper <b>교육부장 역임</b> | 2021. 09 ~ 2022. 09
+      </li>
+      <li>
+        대구가톨릭대학교 소프트웨어융합대학 HCI연구실 <b>학부연구생 역임</b> | 2018. 10 ~ 2024. 02
+      </li>
+    </blockquote>
+  <h3>🚀Competitions & Projects🚀</h3>
+    <blockquote>
+      <li>
+        Focal Loss와 Warm Start 기법을 활용한 Catboost 임신 성공 확률 예측 모델링| LG Aimers 6기 | 기존 Catboost 대비 ROC Score <b>약 7% 상승</b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 07. 01 ~ 2024. 08. 30 | 🔗
+      </li>
+      <li>
+        LSTM 구조 Autoencoder를 이용한 화학 공정 이상 탐지 모델링 | Upstage AI Lab 1기 | Baseline 대비 F1-Score <b>약 35% 향상</b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 04. 08 ~ 2024. 05. 02 | 🔗
+      </li>
+      <li>
+        Ko-Bart모델을 활용한 일상 대화 요약 모델링 | Upstage AI Lab 1기 | - <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 03. 08 ~ 2024. 03. 20 | 🔗
+      </li>
+      <li>
+        Optuna 탐색을 활용한 아파트 실거래가 예측 Catboost 모델링 | Upstage AI Lab 1기 | Baseline 대비 RMSE <b>약 56% 감소</b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 02. 05 ~ 2024. 02. 19 | 🔗
+      </li>
+      <li>
+        Optuna 최적 Threshold 탐색을 활용한 MQL 구매전환 예측 Catboost 모델링 | LG Aimers 4기 | Baseline 대비 F1 Score <b>약 52% 상승</b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 02. 01 ~ 2024. 02. 26 | 🔗
+      </li>
+    </blockquote>
   <h3>🪪Certifications🪪</h3>
-  
+    <blockquote>
+      <li>
+        데이터 분석 준전문가 | 한국데이터산업진흥원 | ADsP-041008354 | 2024. 07. 14
+      </li>
+    </blockquote>
 </div>
