@@ -107,24 +107,24 @@
   <h3>🚀Competitions & Projects🚀</h3>
     <blockquote>
       <li>
-        Focal Loss와 Warm Start 기법을 활용한 Catboost 임신 성공 확률 예측 모델링| LG Aimers 6기 | 기존 Catboost 대비 ROC <b>약 7% 상승</b><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 07. 01 ~ 2024. 08. 30 | 🔗
+        Focal Loss와 Warm Start 기법을 활용한 Catboost 임신 성공 확률 예측 모델링 | LG Aimers 6기 | 기존 Catboost 대비 ROC <b>약 7% 상승</b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 07. 01 ~ 2024. 08. 30 | <a href = "https://github.com/slothbutter/ailab.chemical_process_anomaly_detection" > 🔗 </a>
       </li>
       <li>
         LSTM 구조 Autoencoder를 이용한 화학 공정 이상 탐지 모델링 | Upstage AI Lab 1기 | Baseline 대비 F1-Score <b>약 35% 향상</b><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 04. 08 ~ 2024. 05. 02 | 🔗
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 04. 08 ~ 2024. 05. 02 | <a href = "https://github.com/slothbutter/ailab.chemical_process_anomaly_detection" > 🔗 </a>
       </li>
       <li>
         Ko-Bart모델을 활용한 일상 대화 요약 모델링 | Upstage AI Lab 1기 | - <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 03. 08 ~ 2024. 03. 20 | 🔗
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 03. 08 ~ 2024. 03. 20 | <a href = "https://github.com/slothbutter/ailab.chemical_process_anomaly_detection" > 🔗 </a>
       </li>
       <li>
         Optuna 탐색을 활용한 아파트 실거래가 예측 Catboost 모델링 | Upstage AI Lab 1기 | Baseline 대비 RMSE <b>약 56% 감소</b><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 02. 05 ~ 2024. 02. 19 | 🔗
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 02. 05 ~ 2024. 02. 19 | <a href = "https://github.com/slothbutter/ailab.chemical_process_anomaly_detection" > 🔗 </a>
       </li>
       <li>
         Optuna 최적 Threshold 탐색을 활용한 MQL 구매전환 예측 Catboost 모델링 | LG Aimers 4기 | Baseline 대비 F1 Score <b>약 52% 상승</b><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 02. 01 ~ 2024. 02. 26 | 🔗
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 02. 01 ~ 2024. 02. 26 | <a href = "https://github.com/slothbutter/ailab.chemical_process_anomaly_detection" > 🔗 </a>
       </li>
     </blockquote>
   <h3>🪪Certifications🪪</h3>
