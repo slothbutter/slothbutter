@@ -65,7 +65,7 @@
   <h3>📚Experiences📚</h3>
     <blockquote>
       <li>
-        LG Aimers 6기 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 <b>🥇Private 1st (1st / 794th)</b> | 2024. 07. 01 ~ 2024. 08. 30
+        LG Aimers 6기 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 <b>🥇Private 1st (1 / 794)</b> | 2024. 07. 01 ~ 2024. 08. 30
       </li>
       <li>
         LG Aimers 6기 LG Aimers/Data Intelligence 과정 <b>수료</b> | 2024. 07. 01 ~ 2024. 08. 30 | 30H
@@ -86,13 +86,13 @@
         Upstage AI Lab 1기 <b>수료</b> | 2023. 10. 05 ~ 2024. 05. 10 | 1120H
       </li>
       <li>
-        LG Aimers 4기 MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 <b>🥉Private 11% (102nd / 1212nd)</b> | 2024. 02. 01 ~ 2024. 02. 26 
+        LG Aimers 4기 MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 <b>🥉Private 11% (102 / 1212)</b> | 2024. 02. 01 ~ 2024. 02. 26 
       </li>
       <li>
         LG Aimers 4기 LG Aimers/Data Intelligence 과정 <b>수료</b> | 2024. 02. 01 ~ 2024. 02. 26 | 30H
       </li>
       <li>
-        산업통상자원부 대구 교통사고 피해 예측 AI 경진대회 <b>🥈Private 4% (37th / 941st)</b> | 2023. 11. 15 ~ 2023. 12. 11 
+        산업통상자원부 대구 교통사고 피해 예측 AI 경진대회 <b>🥈Private 4% (37 / 941)</b> | 2023. 11. 15 ~ 2023. 12. 11 
       </li>
       <li>
         대구가톨릭대학교 소프트웨어융합대학 학술동아리 i-Keeper <b>회장 역임</b> | 2022. 09 ~ 2023. 03
