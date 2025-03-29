@@ -65,10 +65,10 @@
   <h3>📚Experiences📚</h3>
     <blockquote>
       <li>
-        LG Aimers 6기 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 <b>🥇Private 1st (1 / 794)</b> | 2024. 07. 01 ~ 2024. 08. 30
+        LG Aimers 6기 난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 <b>🥇Private 1st (1 / 794)</b> | 2025. 01. 02 ~ 2025. 02. 27
       </li>
       <li>
-        LG Aimers 6기 LG Aimers/Data Intelligence 과정 <b>수료</b> | 2024. 07. 01 ~ 2024. 08. 30 | 30H
+        LG Aimers 6기 LG Aimers/Data Intelligence 과정 <b>수료</b> | 2025. 01. 02 ~ 2025. 02. 27 | 30H
       </li>
       <li>
         LG Aimers 5기 LG Aimers/Data Intelligence 과정 <b>수료</b> | 2024. 07. 01 ~ 2024. 08. 30 | 30H
@@ -108,7 +108,7 @@
     <blockquote>
       <li>
         Focal Loss와 Warm Start 기법을 활용한 Catboost 임신 성공 확률 예측 모델링 | LG Aimers 6기 | 기존 Catboost 대비 ROC <b>약 7% 향상</b><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024. 07. 01 ~ 2024. 08. 30 | <a href = "https://github.com/slothbutter/aimers6th.fertility_patients_pregnancy_success_prediction" > 🔗 </a>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025. 01. 02 ~ 2025. 02. 27 | <a href = "https://github.com/slothbutter/aimers6th.fertility_patients_pregnancy_success_prediction" > 🔗 </a>
       </li>
       <li>
         LSTM 구조 Autoencoder를 이용한 화학 공정 이상 탐지 모델링 | Upstage AI Lab 1기 | Baseline 대비 F1-Score <b>약 35% 향상</b><br>
