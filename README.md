@@ -107,7 +107,7 @@
   <h3>🚀Competitions & Projects🚀</h3>
     <blockquote>
       <li>
-        Focal Loss와 Warm Start 기법을 활용한 Catboost 임신 성공 확률 예측 모델링 | LG Aimers 6기 | 기존 Catboost 대비 ROC <b>약 7% 향상</b><br>
+        Focal Loss를 활용한 Catboost 임신 성공 확률 예측 모델링 | LG Aimers 6기 | 기존 Catboost 대비 ROC <b>약 7% 향상</b><br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2025. 01. 02 ~ 2025. 02. 27 | <a href = "https://github.com/slothbutter/aimers6th.fertility_patients_pregnancy_success_prediction" > 🔗 </a>
       </li>
       <li>
